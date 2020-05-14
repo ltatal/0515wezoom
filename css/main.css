@@ -215,31 +215,33 @@ img.logo {
     header .header-content {
    
     padding: 62px 15px;
-}
+    }
 
-header {
-    min-height: 600px
-}
+    header {
+        min-height: 600px
+    }
     
-}
+    .li-01 li {
+        font-size: 16px!important;
+        line-height: 3.5rem!important;
+    }
 
-.li-01 li {
-    
-    font-size: 16px;
-   
-    line-height: 3.5rem;
-}
+    p {
+        font-size: 16px!important;
+        color: #3e3838;
+        line-height: 30px;
+    }
 
-p {
-    font-size: 16px;
-    color: #3e3838;
-    line-height: 30px;
-}
 
-}
-header {
-   
-    min-height: 600px;
+    header {
+       
+        min-height: 600px;
+    }
+
+
+    .block-g {
+        padding: 35px 40px
+    }
 }
 
 @media(max-width:390px) {
