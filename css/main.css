@@ -50,15 +50,7 @@ p {
     
 }
 
-img.logo {
-    margin: 0 auto
-}
 
-.ac-area {
-    display: block;
-    background-color: rgba(50, 88, 102, 0.6);
-    min-height: 250px
-}
 
 .ac-x4 img {
     padding-top: 20px
@@ -70,82 +62,6 @@ img.logo {
 
 
 
-.blue-area {
-    padding-top: 30px
-}
-
-.modal-num {
-    border: 1px solid #b8aa7d;
-    padding: 5px 8px;
-    margin-right: 10px;
-    color: #b8aa7d;
-    margin-top: 20px;
-    font-size: 16px;
-    transition: all .1s ease-in .01s
-}
-
-.modal-num:hover {
-    color: #fff;
-    background-color: #b8aa7d
-}
-
-.pro-tit-lg {
-    font-size: 17px;
-    color: #919699;
-    padding-bottom: 20px;
-    margin-top: -13px;
-    letter-spacing: 1px
-}
-
-
-
-.feature img {
-    padding-top: 30px
-}
-
-.feature a {
-    text-decoration: none
-}
-
-
-
-@media(max-width:500px) {
-    .tv-ar-04 {
-        padding: 33px 12px!important
-    }
-    .tv-ar-04 img {
-        padding-bottom: 0;
-        margin-top: -24px
-    }
-    p.dia-tit {
-        font-size: 20px!important
-    }
-    .modal-content li {
-        font-size: 15px;
-        line-height: 25px
-    }
-    .dia-con-2 li {
-        color: #000;
-        font-size: 17px;
-        list-style: none;
-        text-align: left;
-        letter-spacing: 1px;
-        margin-left: -39px;
-        line-height: 29px
-    }
-    .modal-content li {
-        font-size: 15px!important;
-        margin-left: 32px!important;
-        line-height: 24px!important
-    }
-    .dia-con-2 {
-        width: 315px!important;
-        margin-left: -45px!important
-    }
-    .vedio-you {
-        height: 397px!important
-    }
-}
 
 
 @media screen and (min-width:768px) and (max-width:1600px) {
@@ -240,45 +156,12 @@ img.logo {
 
 
     .block-g {
-        padding: 35px 40px
-    }
-}
-
-@media(max-width:390px) {
-    .dia-btn {
-        padding: 12px 20px
+        padding: 35px 40px!important
     }
 }
 
 
 
-/* award-list page */
-
-.form-01 {
-    width: 100%
-}
-
-.form-01 td {
-    /* border: 2px solid #ececec */
-}
-
-.form-01 tr {
-    background-color: #fff;
-    height: 37px;
-    color: #0e121b;
-    font-size: 16px;
-    border-bottom: 1px solid #eee
-}
-
-.form-01 tr:first-child {
-    background-color: #3c7a94;
-    height: 40px;
-    font-size: 17px;
-    font-weight: 700;
-    color: #fff;
-    background-image: url(../img/bn-bg.jpg);
-    background-size: cover
-}
 
 
 
