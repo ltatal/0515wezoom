@@ -215,6 +215,11 @@ img.logo {
     header .header-content {
    
     padding: 62px 15px;
+}
+
+header {
+    min-height: 600px
+}
     
 }
 
